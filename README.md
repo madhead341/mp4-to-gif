@@ -4,7 +4,6 @@ Simple Python .mp4 to .gif converter.
 ### Saves a video to an 'output' folder where all its frames are saved as images, converting all the images to 1 gif.
 
 ![](https://github.com/madhead341/mp4-to-gif/blob/main/python_efHgb5uiqq.png?raw=true)
-)
 
 ### Requirements:
 
